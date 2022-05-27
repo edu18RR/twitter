@@ -1,0 +1,19 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edu18RR/twitter.git"
+  },
+  "author": "Eduardo Rosas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edu18RR/twitter/issues"
+  },
+  "homepage": "https://github.com/edu18RR/twitter#readme"
+}
