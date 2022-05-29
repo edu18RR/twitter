@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/edu18RR/twitter/issues"
   },
-  "homepage": "https://github.com/edu18RR/twitter#readme"
+  "homepage": "https://github.com/edu18RR/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
